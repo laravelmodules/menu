@@ -1,0 +1,15 @@
+{
+    "name": "laravelmodules/menu",
+    "description": "",
+    "authors": [
+        {
+            "name": "Maru Amallo",
+            "email": "ama_marul@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Modules\\Menu\\": ""
+        }
+    }
+}

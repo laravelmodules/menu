@@ -1,0 +1,4 @@
+{
+    "BackendMenu": "BackendMenuFacade",
+    "DashboardMenu": "DashboardMenuFacade"
+}
